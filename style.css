@@ -16,8 +16,8 @@ h1, h2, h3{
     margin-right: auto;
 }
 #header{
-    background-color: #66CCFF;
-    color: white;
+    background-color: #17af17;
+    color: rgb(3, 3, 3);
     text-align: center;
 }
 #content{
